@@ -1,3 +1,3 @@
-#chai and backend series
+#BACKEND OF YOUTUBE DEMO PROJECT
 
-this is a video series 
+
